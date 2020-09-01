@@ -6,7 +6,7 @@ In these notebooks a network is trained to create dewscriptions of what is shown
 
 For example:
 
-![]('https://ibb.co/C5QYVqW')
+![Sample of the Network](sample.png)
 
 ## Getting Started
 
