@@ -6,7 +6,7 @@ In these notebooks a network is trained to create dewscriptions of what is shown
 
 For example:
 
-![Sample of the network]('./sample.png')
+![Sample of the network]('sample.png')
 
 ## Getting Started
 
